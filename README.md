@@ -17,7 +17,7 @@ Each member will fork the main repo and then clone their forked repo. Members th
 __Instructions__:
 
 ```bash
-git remote add upstream [url]
+git remote add upstream https://github.com/InterviewMastery/interview-mastery
 ```
 
 **Verify upstream was added:**
