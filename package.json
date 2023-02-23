@@ -1,0 +1,20 @@
+{
+  "name": "interview-mastery",
+  "version": "1.0.0",
+  "description": "Interview Mastery is a web application that allows users to connect with others and participate in mock interviews to improve their interviewing skills. With Interview Mastery, users can enter a 1:1 video chat with friends or random people and take turns conducting mock interviews. This platform is perfect for anyone who wants to practice their interviewing skills, whether they are preparing for a job interview, seeking career advice, or simply looking to improve their communication skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCsaszar/interview-mastery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NCsaszar/interview-mastery/issues"
+  },
+  "homepage": "https://github.com/NCsaszar/interview-mastery#readme"
+}
