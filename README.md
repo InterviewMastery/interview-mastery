@@ -9,7 +9,7 @@ Timer to keep track of interview duration
 Feedback section where the interviewer can provide feedback to the interviewee
 Analytics dashboard to track user's progress and identify areas for improvement
 
-# Git Repo Setup (Team Emerald Lake)
+# Git Repo Setup (InterviewMastery)
 
 ### Repo Basics
 Each member will fork the main repo and then clone their forked repo. Members then sets the Project Repo as the ```upstream```. Changes are done on each member's fork on a new branch. When a member is ready to commit new code, they add and commit the changes to their forked repo, checkout ```main``` , pull latest upstream changes, and then merge their feature branch. Then members will create a pull request to the main repo. This is done, so members can fix merge issues before issuing a new PR.
