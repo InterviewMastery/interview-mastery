@@ -47,8 +47,8 @@ git checkout main                   # switch to main branch
 git pull upstream main              # pull latest changes from upstream before committing.
 git merge <branch-name>             # merge new branch to main, make sure to resolve any merge conflicts before pushing.
 git push                            # push to your fork
+Go to your fork on Github and initiate a pull request.
 ```
-# Go to your fork on Github and initiate a pull request.
 
 
 ### License
