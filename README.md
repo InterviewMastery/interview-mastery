@@ -25,10 +25,10 @@ git remote add upstream https://github.com/InterviewMastery/interview-mastery
 ```bash
 git remote -v
 
-origin  https://github.com/<github_handle>/interview-mastery.git (fetch)
-origin  https://github.com/<github_handle>/interview-mastery.git (push)
-upstream        https://github.com/InterviewMastery/interview-mastery.git (fetch)
-upstream        https://github.com/InterviewMastery/interview-mastery.git (push)
+origin  https://github.com/<github handle>/interview-mastery (fetch)
+origin  https://github.com/<github handle>/interview-mastery (push)
+upstream        https://github.com/InterviewMastery/interview-mastery (fetch)
+upstream        https://github.com/InterviewMastery/interview-mastery (push) 
 ```
 
 **Install the dependencies:**
